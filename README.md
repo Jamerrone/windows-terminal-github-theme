@@ -1,2 +1,3 @@
-# windows-terminal-github-theme
-GitHub's Windows Terminal themes.
+# Windows Terminal GitHub Theme
+
+GitHub's themes for Windows Terminal.

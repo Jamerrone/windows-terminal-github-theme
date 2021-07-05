@@ -1,0 +1,25 @@
+{
+  "name": "windows-terminal-github-theme",
+  "description": "GitHub's themes for Windows Terminal.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamerrone/windows-terminal-github-theme.git"
+  },
+  "keywords": [
+    "dark",
+    "github",
+    "light",
+    "theme",
+    "windows-terminal"
+  ],
+  "author": "James Peter Perrone Jefferies <james.p.perrone@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jamerrone/windows-terminal-github-theme/issues"
+  },
+  "homepage": "https://github.com/Jamerrone/windows-terminal-github-theme#readme",
+  "devDependencies": {
+    "@primer/primitives": "^4.5.1"
+  }
+}
