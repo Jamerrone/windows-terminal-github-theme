@@ -2,6 +2,10 @@
   "name": "windows-terminal-github-theme",
   "description": "GitHub's themes for Windows Terminal.",
   "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node src/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jamerrone/windows-terminal-github-theme.git"
@@ -20,6 +24,7 @@
   },
   "homepage": "https://github.com/Jamerrone/windows-terminal-github-theme#readme",
   "devDependencies": {
-    "@primer/primitives": "^4.5.1"
+    "@primer/primitives": "^4.5.1",
+    "color-convert": "^2.0.1"
   }
 }
