@@ -1,7 +1,7 @@
 {
   "name": "windows-terminal-github-theme",
   "description": "GitHub's themes for Windows Terminal.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "build": "node src/index.js"
