@@ -14,5 +14,11 @@ export const getColors = (theme) => {
 };
 
 export const convertColor = (color) => {
-  return `#${convert.hsl.hex(color.match(/\(([^)]+)\)/)[1])}`.toLowerCase();
+  const hsl = color
+    .match(/\(([^)]+)\)/)[1]
+    .replaceAll("%", "")
+    .split(",");
+
+  hsl.pop();
+  return `#${convert.hsl.hex(hsl)}`.toLowerCase();
 };

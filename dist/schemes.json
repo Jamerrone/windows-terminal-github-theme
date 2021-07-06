@@ -1,7 +1,7 @@
 {
   "schemes": [
     {
-      "background": "#0f0f0f",
+      "background": "#090c10",
       "black": "#484f58",
       "blue": "#58a6ff",
       "brightBlack": "#6e7681",
@@ -24,7 +24,7 @@
       "yellow": "#d29922"
     },
     {
-      "background": "#0d0d0d",
+      "background": "#1e2329",
       "black": "#545d68",
       "blue": "#539bf5",
       "brightBlack": "#636e7b",
